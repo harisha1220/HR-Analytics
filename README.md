@@ -1,8 +1,8 @@
 # HR-Analytics
-``📌 Project Overview``
+```📌 Project Overview```
 
 This project presents an HR Analytics Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, slicers, and calculated fields. The dashboard analyzes employee attrition patterns, workforce demographics, and job satisfaction metrics to support data-driven HR decision-making.
-``🎯 Business Objective``
+```🎯 Business Objective```
 
 The objective of this analysis is to:
 
@@ -14,7 +14,7 @@ Understand attrition drivers across job roles, departments, education, age, and 
 
 Provide actionable insights to reduce attrition and improve retention
 
-``🗂 Dataset Description``
+```🗂 Dataset Description```
 
 The dataset contains employee-level HR data with the following key attributes:
 
@@ -36,7 +36,7 @@ Job Satisfaction Rating
 
 Attrition Status
 
-``🛠 Tools & Techniques Used``
+```🛠 Tools & Techniques Used```
 
 Microsoft Excel
 
@@ -48,7 +48,7 @@ Calculated Fields & Measures
 
 Data Cleaning & Preprocessing
 
-``Dashboard Design & Visualization``
+```Dashboard Design & Visualization```
 | Metric                  | Value   |
 | ----------------------- | ------- |
 | Total Employees         | 1,470   |
@@ -57,7 +57,8 @@ Data Cleaning & Preprocessing
 | Attrition Rate          | 16.12%  |
 | Average Employee Age    | 37      |
 | Job Satisfaction Rating | 2.6 / 5 |
-``Analytics & Insights``
+
+```Analytics & Insights```
 1️⃣ Overall Attrition Analysis
 
 The organization shows an attrition rate of 16.12%, indicating a moderate-to-high turnover risk.
@@ -133,6 +134,6 @@ Insight: Married employees form the largest workforce segment, but single employ
 Average job satisfaction score is 2.6 / 5, which is below optimal levels.
 
 Insight: Low job satisfaction is a key attrition driver and requires immediate HR interventions.
-``Conclusion``
+```Conclusion```
 
 This HR Analytics dashboard enables stakeholders to identify attrition drivers, understand workforce composition, and make data-backed HR decisions. The analysis highlights key risk areas and provides actionable insights to improve employee retention and organizational stability.
