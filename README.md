@@ -134,6 +134,7 @@ Insight: Married employees form the largest workforce segment, but single employ
 Average job satisfaction score is 2.6 / 5, which is below optimal levels.
 
 Insight: Low job satisfaction is a key attrition driver and requires immediate HR interventions.
-```Conclusion```
+
+ `Conclusion`
 
 This HR Analytics dashboard enables stakeholders to identify attrition drivers, understand workforce composition, and make data-backed HR decisions. The analysis highlights key risk areas and provides actionable insights to improve employee retention and organizational stability.
